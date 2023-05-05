@@ -4,9 +4,20 @@ This repository contains a collection of prompts that you can use for various cr
 
 ## Usage
 
-To use these prompts, simply browse the collection and choose a prompt that inspires you. Each prompt is accompanied by a brief description that explains what it's about and how to use it.
+To use these prompts, simply browse the collection and choose a prompt that inspires you. 
 
 Feel free to modify the prompts as needed to suit your specific project. You can also combine multiple prompts to create something entirely new and unique.
+
+## Recommended
+
+Use ChatGPT Plus Subscription with GPT-4 or higher models.
+
+## Quick Start Guide
+
+1.  Visit [ChatGPT](https://chat.openai.com/chat)
+2.  Select the GPT-4 (or above) model
+3.  Copy and paste the contents of any JSON file into the prompt
+4.  Enjoy the ride!
 
 ## Contributing
 
@@ -18,4 +29,4 @@ All prompts in this collection are released under the Creative Commons license. 
 
 ## Credits
 
-This collection was created by Daniel Gwerzman.
+This collection was created by Daniel Gwerzman. 
