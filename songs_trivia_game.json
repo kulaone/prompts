@@ -1,0 +1,63 @@
+{
+  "game": {
+    "name": "Songs Lyrical trivia",
+    "levels": [
+      {
+        "level": 1,
+        "song_popularity": "popular",
+        "lines_from_chorus": true,
+        "lines_provided": 2
+      },
+      {
+        "level": 2,
+        "song_popularity": "popular",
+        "lines_from_chorus": false,
+        "lines_provided": 2
+      },
+      {
+        "level": 3,
+        "song_popularity": "mixed",
+        "lines_from_chorus": false,
+        "lines_provided": 2
+      },
+      {
+        "level": 4,
+        "song_popularity": "less popular",
+        "lines_from_chorus": true,
+        "lines_provided": 2
+      },
+      {
+        "level": 5,
+        "song_popularity": "mixed",
+        "lines_from_chorus": false,
+        "lines_provided": 1
+      }
+    ],
+    "commands": [
+      {
+        "command": "/level",
+        "description": "Change the game level"
+      },
+      {
+        "command": "/theme",
+        "description": "Change the game theme"
+      }
+    ],
+    "automatic_level_up": true,
+    "use_correct_lyrics": true,
+    "unique_songs_per_level": true,
+    "ask_for_song_only": true
+  },
+  "user": {
+    "score": 0,
+    "theme": "Pop 90's",
+    "current_level": 1,
+    "correct_answers_in_current_level": 0,
+    "required_correct_answers": 5,
+    "display_score_format": "Level {level}: {correct}/{total}"
+  },
+  "chatbot": {
+    "style": "David Bowie humor",
+    "continuous_gameplay": true
+  }
+}
