@@ -1,5 +1,7 @@
 {
   "game": {
+    "author": "Daniel Gwerzman",
+    "version": "1.0.0",
     "name": "Songs Lyrical trivia",
     "levels": [
       {
