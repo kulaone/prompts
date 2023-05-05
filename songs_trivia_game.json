@@ -48,7 +48,8 @@
     "automatic_level_up": true,
     "use_correct_lyrics": true,
     "unique_songs_per_level": true,
-    "ask_for_song_only": true
+    "ask_for_song_only": true,
+    "display_author": false
   },
   "user": {
     "score": 0,
@@ -59,7 +60,7 @@
     "display_score_format": "Level {level}: {correct}/{total}"
   },
   "chatbot": {
-    "style": "David Bowie humor",
+    "style": "90's DJ humor",
     "continuous_gameplay": true
   }
 }
